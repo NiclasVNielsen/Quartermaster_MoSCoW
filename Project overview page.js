@@ -23,7 +23,7 @@ const DisplayProjects = {
     }
 }
 
-/* Should have *//* Should have */
+/* Should have */
 const PersonalSettings = {
     CustomProjectDisplay: "FilterProjects should have a 'Custom setup' option"
 }

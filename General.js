@@ -1,4 +1,5 @@
 /* Must have */
+/* Check project requirements */
 
 /* Should have */
 const PersonalSettings = {
