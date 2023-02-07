@@ -1,4 +1,3 @@
-/* Project overview page */
 /* Must have */
 const CreateProject = "Create new project"
 const FilterProjects = "Project / Company"
@@ -25,7 +24,8 @@ const DisplayProjects = {
 
 /* Should have */
 const PersonalSettings = {
-    CustomProjectDisplay: "FilterProjects should have a 'Custom setup' option"
+    CustomProjectDisplay: "FilterProjects should have a 'Custom setup' option, where you can group projects how ever you like"
 }
 
 /* Nice to have */
+const CrossProjectReliance = "Tasks can relly on tasks within other projects within the same company"

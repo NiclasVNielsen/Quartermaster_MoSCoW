@@ -1,5 +1,5 @@
 /* Must have */
-/* Check project requirements */
+const ProjectRequirements = "Check the project requirements";
 
 /* Should have */
 const PersonalSettings = {
