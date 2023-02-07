@@ -11,3 +11,5 @@ const CompanyManagement = {
 
 /* Nice to have */
 const Pirates = "Make everything pirate theme"
+const EmployeeSchedule = "Time schedule for each person to make a schedules more accurate"
+const EmployeePriority = "Make a ordered priority list that can be used by the schedule to account for people working on other projects" /* Staff should be able to adjust employee's priority list */
