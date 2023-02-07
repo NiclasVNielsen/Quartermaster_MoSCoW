@@ -28,4 +28,4 @@ const PersonalSettings = {
 }
 
 /* Nice to have */
-const CrossProjectReliance = "Tasks can relly on tasks within other projects within the same company"
+const CrossProjectReliance = "Tasks can relly on tasks within other projects within the same Company Project" /* + Make entire projects relly on tasks in other projects, so projects are "disabled" until the task is completed */
