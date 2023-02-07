@@ -6,6 +6,7 @@ const DisplayProjects = {
     ProjectTitle : "Title of the project",
     ProjectDescription : "Short description of what the project is about",
     PeopleAssignedToProject : "People/Group of people assigned to the project",
+    CompanyProject : "What Company Project is this project a part of (if any)",
     CommingDeadlinesYouAreAssignedTo : "Display most important upcomming deadline", /* (JS date library - ask Kristian) */
     Status : "Display overdue warning or project finished or ongoing",
     GoToProject : "Go to the specific project page to see EVERYTHING",
@@ -26,6 +27,3 @@ const DisplayProjects = {
 const PersonalSettings = {
     CustomProjectDisplay: "FilterProjects should have a 'Custom setup' option, where you can group projects how ever you like"
 }
-
-/* Nice to have */
-const CrossProjectReliance = "Tasks can relly on tasks within other projects within the same Company Project" /* + Make entire projects relly on tasks in other projects, so projects are "disabled" until the task is completed */
